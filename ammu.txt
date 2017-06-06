@@ -1,0 +1,8 @@
+1. Java is an object oriented language.
+
+2.If we write program in any operating system we can rut it.
+
+3.It any other operating system.
+
+4.write once and run anywhere.
+
